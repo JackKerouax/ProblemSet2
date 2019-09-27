@@ -1,0 +1,1 @@
+For problem 2.1, I looked into the values of characters in the ASCII table and noticed that for all uppercase symbol has a decimal value smaller than 97, so when taking int value of c/97, the int part is always gonna be 0, and for all lowercase symbol has a decimal value larger than 97 and smaller than 123, when taking int value of c/97, the int part is always gonna be 1.

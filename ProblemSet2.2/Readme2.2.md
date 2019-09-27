@@ -1,0 +1,3 @@
+For problem 2.2
+i split the equation into three part, first I calculated the power value m-69/12 then I calculate the power value of 2^m1 as double, at last I calculate the final converted frequency as integer
+by using the equation obtained from the link : https://newt.phys.unsw.edu.au/jw/notes.html I was able to get the correct A4 frequency as well as MIDI note 21; however, there is some occasions where the converted frequemcy is slightly off compared with the website's frequency to midi note diagram.
